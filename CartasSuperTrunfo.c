@@ -41,5 +41,6 @@ int main() {
     printf("Informações da sua cidade: \n");
     printf("Nome: %s \n Codigo: %d \n Populacao: %d \n Área: %f \n PIB: %f ", nome, codCidade, populacao, area, pib);
 
+// commit teste
     return 0;
 }
